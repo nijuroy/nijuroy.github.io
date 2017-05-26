@@ -1,1 +1,0 @@
-# nijuroy.github.io
