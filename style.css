@@ -1,0 +1,30 @@
+body {
+	background-color: CFF9CE;
+	padding:100px;
+}
+#container{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:50px;
+	
+}
+#header {
+background-color: DDEE0F;
+text-align: center;
+color: white;
+font-size: 32px;
+font-family:Times New Roman Bold;
+}
+
+#content {
+    padding:10px;
+	text-align: center;
+	font: armenian;
+	font-size: 15px;
+}
+#footer {
+align: center-right;
+}
+	
